@@ -1,9 +1,14 @@
 # What is DV_Standalone
-DV_Standalone is Electronic Signature Document (PDF) Validation, Run via Microsoft cammand line, with .Net Framwork 4.6 later
+DV_Standalone is Electronic Signature Document (PDF) Validation, Run via Microsoft cammand line, with DotNet Framwork 4.6 or later
 
 # How to use this program
 By run on Command Prompt> DV_Standalone.exe /ds=PDFSourceDirectory /dd=PDFDestinationDirectory
 
+# Require Environment
+1. Microsoft Windows Operating System.
+2. DotNet Framework 4.6 or later.
+3. No required any internet connected.
+   
 # Example Run Step
 0. Copy DV_Standalone.exe to path that you want, eg. C:\Certificate
 1. Prepare PDF files on PDFSourceDirectory eg. C:\Certificate\PDF_Source
