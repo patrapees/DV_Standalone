@@ -1,6 +1,8 @@
-# DV_Standalone is Electronic Signature Document (PDF) Validation, Run via Microsoft cammand line, with .Net Framwork 4.6 later
+# What is DV_Standalone
+DV_Standalone is Electronic Signature Document (PDF) Validation, Run via Microsoft cammand line, with .Net Framwork 4.6 later
 
-# How to use this program by run on Command Prompt> DV_Standalone.exe /ds=PDFSourceDirectory /dd=PDFDestinationDirectory
+# How to use this program
+By run on Command Prompt> DV_Standalone.exe /ds=PDFSourceDirectory /dd=PDFDestinationDirectory
 
 # Example Run Step
 0. Copy DV_Standalone.exe to path that you want, eg. C:\Certificate
@@ -14,4 +16,5 @@
        4.2.2 PDF is Invalid will copy to C:\Certificate\PDF_Validate\invalid
        4.2.3 PDF is not have any signature will copy to C:\Certificate\PDF_Validate\NoSign
 
-# This program will be expire on 31 December 2024, You can contact to Patrapee.S@en.rmutt.ac.th to renew the program.
+# This program will be expire on 31 December 2024
+You can contact to Patrapee.S@en.rmutt.ac.th to renew the program.
