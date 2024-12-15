@@ -3,7 +3,7 @@
 # How to use this program by run on Command Prompt> DV_Standalone.exe /ds=PDFSourceDirectory /dd=PDFDestinationDirectory
 
 # Example Run Step
-0. Copy DV_Standalone to path that you want, eg. C:\Certificate
+0. Copy DV_Standalone.exe to path that you want, eg. C:\Certificate
 1. Prepare PDF files on PDFSourceDirectory eg. C:\Certificate\PDF_Source
 2. Prepare Directory for output of PDF was Validation checked. (or If you not created Path, Program will be create by it self.)
 3. Open Command Prompt and goto program path eg. C:\Certificate (at step-0)
